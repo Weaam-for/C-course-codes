@@ -1,0 +1,6 @@
+D:\visual studio codes\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe.config
+D:\visual studio codes\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe
+D:\visual studio codes\FirstVariable\FirstVariable\bin\Debug\FirstVariable.pdb
+D:\visual studio codes\FirstVariable\FirstVariable\obj\Debug\FirstVariable.csproj.CoreCompileInputs.cache
+D:\visual studio codes\FirstVariable\FirstVariable\obj\Debug\FirstVariable.exe
+D:\visual studio codes\FirstVariable\FirstVariable\obj\Debug\FirstVariable.pdb
