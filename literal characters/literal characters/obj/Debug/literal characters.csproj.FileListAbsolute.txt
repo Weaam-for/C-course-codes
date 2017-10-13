@@ -1,0 +1,7 @@
+D:\visual studio codes\literal characters\literal characters\bin\Debug\literal characters.exe.config
+D:\visual studio codes\literal characters\literal characters\bin\Debug\literal characters.exe
+D:\visual studio codes\literal characters\literal characters\bin\Debug\literal characters.pdb
+D:\visual studio codes\literal characters\literal characters\obj\Debug\literal characters.csprojResolveAssemblyReference.cache
+D:\visual studio codes\literal characters\literal characters\obj\Debug\literal characters.csproj.CoreCompileInputs.cache
+D:\visual studio codes\literal characters\literal characters\obj\Debug\literal characters.exe
+D:\visual studio codes\literal characters\literal characters\obj\Debug\literal characters.pdb
