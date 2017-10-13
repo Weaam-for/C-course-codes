@@ -1,0 +1,6 @@
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\bin\Debug\type of data charstingboolean.exe.config
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\bin\Debug\type of data charstingboolean.exe
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\bin\Debug\type of data charstingboolean.pdb
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\obj\Debug\type of data charstingboolean.csproj.CoreCompileInputs.cache
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\obj\Debug\type of data charstingboolean.exe
+D:\visual studio codes\type of data charstingboolean\type of data charstingboolean\obj\Debug\type of data charstingboolean.pdb
