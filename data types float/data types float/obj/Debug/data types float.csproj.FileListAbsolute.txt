@@ -1,0 +1,6 @@
+D:\visual studio codes\data types float\data types float\bin\Debug\data types float.exe.config
+D:\visual studio codes\data types float\data types float\bin\Debug\data types float.exe
+D:\visual studio codes\data types float\data types float\bin\Debug\data types float.pdb
+D:\visual studio codes\data types float\data types float\obj\Debug\data types float.csproj.CoreCompileInputs.cache
+D:\visual studio codes\data types float\data types float\obj\Debug\data types float.exe
+D:\visual studio codes\data types float\data types float\obj\Debug\data types float.pdb
