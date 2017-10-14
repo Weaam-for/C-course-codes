@@ -1,0 +1,6 @@
+D:\visual studio codes\operations of mathematical\operations of mathematical\obj\Debug\operations of mathematical.csproj.CoreCompileInputs.cache
+D:\visual studio codes\operations of mathematical\operations of mathematical\bin\Debug\operations of mathematical.exe.config
+D:\visual studio codes\operations of mathematical\operations of mathematical\bin\Debug\operations of mathematical.exe
+D:\visual studio codes\operations of mathematical\operations of mathematical\bin\Debug\operations of mathematical.pdb
+D:\visual studio codes\operations of mathematical\operations of mathematical\obj\Debug\operations of mathematical.exe
+D:\visual studio codes\operations of mathematical\operations of mathematical\obj\Debug\operations of mathematical.pdb
