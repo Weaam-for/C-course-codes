@@ -1,0 +1,7 @@
+D:\visual studio codes\Boolean operators\Boolean operators\bin\Debug\Boolean operators.exe.config
+D:\visual studio codes\Boolean operators\Boolean operators\bin\Debug\Boolean operators.exe
+D:\visual studio codes\Boolean operators\Boolean operators\bin\Debug\Boolean operators.pdb
+D:\visual studio codes\Boolean operators\Boolean operators\obj\Debug\Boolean operators.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Boolean operators\Boolean operators\obj\Debug\Boolean operators.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Boolean operators\Boolean operators\obj\Debug\Boolean operators.exe
+D:\visual studio codes\Boolean operators\Boolean operators\obj\Debug\Boolean operators.pdb
