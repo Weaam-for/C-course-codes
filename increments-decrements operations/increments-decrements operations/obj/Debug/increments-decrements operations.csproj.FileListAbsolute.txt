@@ -1,0 +1,7 @@
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\bin\Debug\increments-decrements operations.exe.config
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\bin\Debug\increments-decrements operations.exe
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\bin\Debug\increments-decrements operations.pdb
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\obj\Debug\increments-decrements operations.csprojResolveAssemblyReference.cache
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\obj\Debug\increments-decrements operations.csproj.CoreCompileInputs.cache
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\obj\Debug\increments-decrements operations.exe
+D:\visual studio codes\increments-decrements operations\increments-decrements operations\obj\Debug\increments-decrements operations.pdb
