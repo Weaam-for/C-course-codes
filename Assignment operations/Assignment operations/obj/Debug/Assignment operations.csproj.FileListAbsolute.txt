@@ -1,0 +1,7 @@
+D:\visual studio codes\Assignment operations\Assignment operations\bin\Debug\Assignment operations.exe.config
+D:\visual studio codes\Assignment operations\Assignment operations\bin\Debug\Assignment operations.exe
+D:\visual studio codes\Assignment operations\Assignment operations\bin\Debug\Assignment operations.pdb
+D:\visual studio codes\Assignment operations\Assignment operations\obj\Debug\Assignment operations.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Assignment operations\Assignment operations\obj\Debug\Assignment operations.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Assignment operations\Assignment operations\obj\Debug\Assignment operations.exe
+D:\visual studio codes\Assignment operations\Assignment operations\obj\Debug\Assignment operations.pdb
