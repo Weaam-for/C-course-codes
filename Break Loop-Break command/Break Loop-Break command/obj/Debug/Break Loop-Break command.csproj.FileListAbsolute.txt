@@ -1,0 +1,7 @@
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\bin\Debug\Break Loop-Break command.exe.config
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\bin\Debug\Break Loop-Break command.exe
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\bin\Debug\Break Loop-Break command.pdb
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\obj\Debug\Break Loop-Break command.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\obj\Debug\Break Loop-Break command.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\obj\Debug\Break Loop-Break command.exe
+D:\visual studio codes\Break Loop-Break command\Break Loop-Break command\obj\Debug\Break Loop-Break command.pdb

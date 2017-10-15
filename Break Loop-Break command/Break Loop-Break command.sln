@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break Loop-Break command", "Break Loop-Break command\Break Loop-Break command.csproj", "{DD9519A3-B133-45ED-8962-1331F8817EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9519A3-B133-45ED-8962-1331F8817EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9519A3-B133-45ED-8962-1331F8817EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9519A3-B133-45ED-8962-1331F8817EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9519A3-B133-45ED-8962-1331F8817EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC2B499-65E4-4B38-B610-6C70D2EA7640}
+	EndGlobalSection
+EndGlobal
