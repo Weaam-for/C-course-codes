@@ -1,0 +1,7 @@
+D:\visual studio codes\Forloop\Forloop\bin\Debug\Forloop.exe.config
+D:\visual studio codes\Forloop\Forloop\bin\Debug\Forloop.exe
+D:\visual studio codes\Forloop\Forloop\bin\Debug\Forloop.pdb
+D:\visual studio codes\Forloop\Forloop\obj\Debug\Forloop.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Forloop\Forloop\obj\Debug\Forloop.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Forloop\Forloop\obj\Debug\Forloop.exe
+D:\visual studio codes\Forloop\Forloop\obj\Debug\Forloop.pdb
