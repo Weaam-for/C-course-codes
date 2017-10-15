@@ -1,0 +1,7 @@
+D:\visual studio codes\Do-While\Do-While\bin\Debug\Do-While.exe.config
+D:\visual studio codes\Do-While\Do-While\bin\Debug\Do-While.exe
+D:\visual studio codes\Do-While\Do-While\bin\Debug\Do-While.pdb
+D:\visual studio codes\Do-While\Do-While\obj\Debug\Do-While.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Do-While\Do-While\obj\Debug\Do-While.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Do-While\Do-While\obj\Debug\Do-While.exe
+D:\visual studio codes\Do-While\Do-While\obj\Debug\Do-While.pdb
