@@ -1,0 +1,7 @@
+D:\visual studio codes\While\While\bin\Debug\While.exe.config
+D:\visual studio codes\While\While\bin\Debug\While.exe
+D:\visual studio codes\While\While\bin\Debug\While.pdb
+D:\visual studio codes\While\While\obj\Debug\While.csprojResolveAssemblyReference.cache
+D:\visual studio codes\While\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+D:\visual studio codes\While\While\obj\Debug\While.exe
+D:\visual studio codes\While\While\obj\Debug\While.pdb
