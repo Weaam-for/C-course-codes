@@ -1,0 +1,7 @@
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\bin\Debug\Ternary Conditions.exe.config
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\bin\Debug\Ternary Conditions.exe
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\bin\Debug\Ternary Conditions.pdb
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\obj\Debug\Ternary Conditions.csprojResolveAssemblyReference.cache
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\obj\Debug\Ternary Conditions.csproj.CoreCompileInputs.cache
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\obj\Debug\Ternary Conditions.exe
+D:\visual studio codes\Ternary Conditions\Ternary Conditions\obj\Debug\Ternary Conditions.pdb
